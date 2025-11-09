@@ -19,4 +19,5 @@ Portfolio Website:A personal website built with HTML, CSS, and JavaScript to sho
 Student Management System (Concept):Designed a basic interface for adding and viewing student records using HTML, CSS, and Java.
 Weather App (Learning Project): A simple web app that shows live weather using an API.
 ## social link:https://www.linkedin.com/in/shravani-chittimalla-10ab77328/
+## GitHub:https://github.com/shravani665/myportfolio
 
